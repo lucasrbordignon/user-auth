@@ -41,11 +41,11 @@ GET /auth/logged: Verifica se o usuário está logado
 Clone o projeto
 ```
   git init
-  git@github.com:lucasrbordignon/user-crud.git
+  git@github.com:lucasrbordignon/user-auth.git
 ```
 Entre no diretório do projeto
 ```
-  cd user-crud
+  cd user-auth
 ```
 Instale as dependências
 ```
